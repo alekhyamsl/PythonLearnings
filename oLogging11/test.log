@@ -1,0 +1,33 @@
+INFO:root:this is my first logging
+INFO:root:this is my first logging code
+INFO:root:this is my first logging code
+INFO:root:2
+INFO:root:[1, 2, 3, 4, 5, 6, 6, 7]
+INFO:root:this is my first logging code
+WARNING:root:this is my warning message
+INFO:root:2
+INFO:root:[1, 2, 3, 4, 5, 6, 6, 7]
+INFO:root:this is my first logging code
+WARNING:root:this is my warning message
+INFO:root:2
+INFO:root:[1, 2, 3, 4, 5, 6, 6, 7]
+WARNING:root:waring to the user that 2 is found in list
+INFO:root:this is my first logging code
+WARNING:root:this is my warning message
+ERROR:root:this is error message from system
+INFO:root:2
+INFO:root:[1, 2, 3, 4, 5, 6, 6, 7]
+WARNING:root:waring to the user that 2 is found in list
+INFO:root:this is my first logging code
+WARNING:root:this is my warning message
+ERROR:root:this is error message from system
+INFO:root:2
+INFO:root:[1, 2, 3, 4, 5, 6, 6, 7]
+WARNING:root:waring to the user that 2 is found in list
+INFO:root:after shutdown
+INFO:root:this is my first logging code
+WARNING:root:this is my warning message
+ERROR:root:this is error message from system
+INFO:root:2
+INFO:root:[1, 2, 3, 4, 5, 6, 6, 7]
+WARNING:root:waring to the user that 2 is found in list

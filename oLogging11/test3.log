@@ -1,0 +1,5 @@
+INFO 2024-07-30 15:05:33,698 user trying to read a file
+ERROR 2024-07-30 15:05:33,698 [Errno 2] No such file or directory: 'alekhya.txt'
+INFO 2024-07-30 15:06:40,801 user trying to read a file
+CRITICAL 2024-07-30 15:06:40,801 situation to be handled
+ERROR 2024-07-30 15:06:40,801 [Errno 2] No such file or directory: 'alekhya.txt'

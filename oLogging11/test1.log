@@ -1,0 +1,4 @@
+2024-07-30 14:23:17,827 this is logging info with timestamp
+2024-07-30 14:24:47,381 INFO this is logging info with timestamp
+2024-07-30 14:25:11,251 root INFO this is logging info with timestamp
+ root INFO 2024-07-30 14:26:11,649 this is logging info with timestamp
