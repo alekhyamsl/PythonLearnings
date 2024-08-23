@@ -57,7 +57,7 @@ select full
 
 
 
-root password : Alekhya@99
+root password : 
 
 Why SQL(DB) in Data science?
 Client will not give data in excel sheet or available in local system
